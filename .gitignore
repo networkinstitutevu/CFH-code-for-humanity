@@ -1,0 +1,57 @@
+# Ignore IDE specifics
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore macOS specifics
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# macOS files
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+Icon
+__MACOSX
+
+# Ignore Node.js specific files
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Ignore Python specific files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# Ignore environment variable files
+.env
+.env.*
+
+# Ignore OS specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore compiled code
+*.class
+*.dll
+*.exe
+*.o
+*.so
