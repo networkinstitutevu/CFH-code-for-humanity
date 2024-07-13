@@ -14,10 +14,10 @@ We detail repository on [Repository Rules Page](repository-rules.md) (under cons
 
 <br>
 
-### Founders
+### Contributors
 [Lara Baseggio<sup>†<sup>](https://www.linkedin.com/in/lara-baseggio), [Radu Nicolae<sup>†<sup>](https://www.linkedin.com/in/rnicolae/),
-[Ivano Malavolta*](https://www.linkedin.com/in/ivanomalavolta/), [Marco Otte*](https://www.linkedin.com/in/marco-otte-58148b5/)
+[Ivano Malavolta*](https://github.com/iivanoo), [Marco Otte*](https://www.linkedin.com/in/marco-otte-58148b5/)
 
-†Project Leads, Founders, and Main Contributors
+†Project Leads and Main Contributors
 
-*Project Leads, Founders
+*Project Contributors

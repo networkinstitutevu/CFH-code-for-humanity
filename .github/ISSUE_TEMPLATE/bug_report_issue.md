@@ -31,3 +31,5 @@ Add any relevant screenshots.
 
 **🔗 Linked Branch:**
 [bug-branch-name](https://github.com/user/repo/tree/bug-branch-name)
+
+This activity is supported by the [Network Institute](https://networkinstitute.org/) under the Code for Humanity initiative. 
