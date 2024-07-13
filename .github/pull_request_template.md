@@ -13,6 +13,6 @@ Please check the relevant options:
 - [ ] ⚠️ Breaking change
 - [ ] 📚 Documentation update
 
-This activity is supported by the [Network Institute](https://networkinstitute.org/) under the Code for Humanity initiative. 
+This activity is supported by the [Network Institute](https://networkinstitute.org/) under the Code for Humanity initiative.  
 
 
