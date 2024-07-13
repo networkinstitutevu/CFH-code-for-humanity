@@ -15,4 +15,3 @@ Please check the relevant options:
 
 This activity is supported by the [Network Institute](https://networkinstitute.org/) under the Code for Humanity initiative.  
 
-

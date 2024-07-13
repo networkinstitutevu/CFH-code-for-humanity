@@ -20,4 +20,4 @@ We detail repository on [Repository Rules Page](repository-rules.md) (under cons
 
 †Project Leads and Main Contributors
 
-*Project Contributors 
+*Project Contributors
