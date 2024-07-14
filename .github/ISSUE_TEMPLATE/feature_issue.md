@@ -25,3 +25,5 @@ Add any other context or screenshots about the feature request here.
 
 **🔗 Linked Branch:**
 [branch-name](https://github.com/user/repo/tree/branch-name)
+
+This activity is supported by the [Network Institute](https://networkinstitute.org/) under the Code for Humanity initiative. 

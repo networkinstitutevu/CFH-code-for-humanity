@@ -27,5 +27,6 @@ We align our rules with industry standards.
 - [Pull Request Template](.github/pull_request_template.md)
 - -- to be (further) discussed
 
+This activity is supported by the [Network Institute](https://networkinstitute.org/) under the Code for Humanity initiative.  
 
 
