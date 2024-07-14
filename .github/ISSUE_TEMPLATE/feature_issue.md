@@ -4,26 +4,37 @@ about: Suggest an idea for this project
 title: "[FEAT]"
 labels: ''
 assignees: ''
+
 ---
 
-### 🚀 Feature Request
+# 🚀 Feature Request
 
-**📝 Summary:**
+### Summary 📝
 Briefly describe the feature.
 
-**🔍 Detailed Description:**
-Explain the feature in detail. What should it do? 
+Your answer:
 
-**💡 Use Case:**
+### Detailed Description 🔍
+Explain the feature in detail. What should it do?
+
+Your answer:
+
+### Use Case 💡
 Why is this feature needed? Provide scenarios where it would be useful.
 
-**🔄 Possible Alternatives:**
+Your answer:
+
+### Possible Alternatives 🔄
 Are there any existing alternatives? How do they compare?
 
-**📌 Additional Context:**
+Your answer:
+
+### Additional Context 📌
 Add any other context or screenshots about the feature request here.
 
-**🔗 Linked Branch:**
+Your answer:
+
+### Linked Branch 🔗
 [branch-name](https://github.com/user/repo/tree/branch-name)
 
-This activity is supported by the [Network Institute](https://networkinstitute.org/) under the Code for Humanity initiative. 
+This activity is supported by the [Network Institute](https://networkinstitute.org/) under the Code for Humanity initiative.
