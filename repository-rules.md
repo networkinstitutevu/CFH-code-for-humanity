@@ -8,7 +8,6 @@ We align our rules with industry standards.
 ## Overall Collaboration Process
 -- to be discussed
 
-
 ## Github Issues
 - [Feature Issue Template](.github/ISSUE_TEMPLATE/feature_issue.md)
 - [Bug Report Issue Template](.github/ISSUE_TEMPLATE/bug_report_issue.md)

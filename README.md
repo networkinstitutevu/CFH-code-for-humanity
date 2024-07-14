@@ -5,7 +5,21 @@ _--under construction_
 Code-for-humanity is a humanitarian initiative, powered by the Network Institute, at Vrije Universiteit Amsterdam. 
 We help humanitarian software-related projects to build, develop, and launch.
 
-<br>
+### What kind of projects do we contribute to?
+We offer help to humanitarian-cause projects, situated at an MVP stage or more mature.  
+
+### What help do we offer? 
+We provide both technical and advertising support. 
+
+The technical support involves: 
+- Finalizing the design and development of the project
+- Designing, developing, and testing new features
+- Expanding existing functionality and fixing bugs
+- Expand or develop a testing framework
+- Technological advice
+
+The advertising support involves publicising articles, blogs, and posts via our website and social-media platforms.  
+
 
 ### Repository Rules
 To ensure a consistent, scalable, and efficient development process, this repository requires following some contribution rules for overall collaboration, commit messages, branches, forks, pull requests, and issues.
