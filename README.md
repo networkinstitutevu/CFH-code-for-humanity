@@ -8,7 +8,6 @@ We help humanitarian software-related projects to build, develop, and launch.
 We offer help to humanitarian-cause projects, situated at an MVP stage or more mature.  
 
 ### What help do we offer? 
-We provide both technical and advertising support. 
 
 The technical support involves: 
 - Finalizing the design and development of the project
