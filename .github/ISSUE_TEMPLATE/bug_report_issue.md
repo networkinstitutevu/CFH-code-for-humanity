@@ -7,29 +7,39 @@ assignees: Radu-Nicolae
 
 ---
 
-### 🐛 Bug Report
+# 🐛 Bug Report
 
-**📝 Summary:**
+### Summary 📝
 Briefly describe the bug.
 
-**🔍 Steps to Reproduce:**
+Your answer:
+
+### Steps to Reproduce 🔍
 1. Step one
 2. Step two
 3. Step three
 
-**💥 Expected Behavior:**
+### Expected Behavior 💥
 Describe what should happen.
 
-**🚫 Actual Behavior:**
+Your answer:
+
+### Actual Behavior 🚫
 Describe what actually happens.
 
-**📸 Screenshots:**
+Your answer:
+
+### Screenshots 📸
 Add any relevant screenshots.
 
-**🛠 Environment:**
+Your answer:
+
+### Environment 🛠
 - OS: [e.g., Windows 10]
 
-**🔗 Linked Branch:**
+Your answer:
+
+### Linked Branch 🔗
 [bug-branch-name](https://github.com/user/repo/tree/bug-branch-name)
 
-This activity is supported by the [Network Institute](https://networkinstitute.org/) under the Code for Humanity initiative.   
+This activity is supported by the [Network Institute](https://networkinstitute.org/) under the Code for Humanity initiative.
