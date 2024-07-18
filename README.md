@@ -22,7 +22,7 @@ The advertising support involves articles, blogs, and posts via our website and 
 To ensure a consistent, scalable, and efficient development process, this repository requires following some 
 contribution rules for overall collaboration, commit messages, branches, forks, pull requests, and issues.
 
-We expand the repository / collaboration e zrules in [Repository Rules Page](repository-rules.md).
+We expand the repository / collaboration rules in [Repository Rules Page](repository-rules.md).
 
 <br>
 
